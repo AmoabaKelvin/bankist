@@ -1,6 +1,6 @@
 # [Bankist Website](https://amoaba-bankist.netlify.app/)
 
-### A banking website built with HTML, CSS and JavaScript
+### A beautiful banking website built with HTML, CSS and JavaScript
 
 # Images
 
